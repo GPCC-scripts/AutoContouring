@@ -1,0 +1,13 @@
+{
+  "AriaDeamonName": "AutoContouringRS",
+  "AriaDeamonIp": "192.168.0.0",
+  "AriaDeamonPort": 112,
+  "LocalName": "ECLIPSE",
+  "LocalPort": 112,
+  "RayDeamonName": "RAYSTATION_SSCP",
+  "RayDeamonIp": "192.168.0.1",
+  "RayDeamonPort": 104,
+  "StorageSCPpath": "192.168.0.1\\StorageSCP",
+  "StorageSCPuser": "RAY\\user",
+  "StorageSCPpass": "pass"
+}
