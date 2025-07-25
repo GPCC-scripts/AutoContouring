@@ -18,7 +18,7 @@ def hex2bin(hex_string):
 	return bin_string
 
 # import path
-importPath = '//192.168.0.1/StorageSCP_AutoImport/'
+importPath = '//192.168.0.1/StorageSCP/'
 # check autocontouring file
 patient = connect.get_current('Patient')
 acFilePath = importPath + datetime.now().strftime('%Y%m%d') + '__AutoContouringRS__' + patient.PatientID + '/autoContouring.txt'
